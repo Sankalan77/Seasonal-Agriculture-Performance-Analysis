@@ -136,6 +136,6 @@ Agricultural performance is shaped by seasonal shifts in rainfall, temperature, 
 ## 👤 Author
 
 **Sankalan**
-Final-year B.Tech, Computer Science & Engineering
+a B.Tech CSE Student
 
 Submitted as part of the **VOIS AICTE Virtual Internship Program, Batch 1 (2026–2027)**.
